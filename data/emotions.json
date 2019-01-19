@@ -3,28 +3,28 @@
 		{
 			"name": "SAD",
 			"face": "images/sad.png",
-			"voice": ["audio/sad/sad1.mp3", "audio/sad/sad2.mp3", "audio/sad/sad3.mp3", "audio/sad/sad4.mp3"] 
+			"voice": ["audio/sad/sad11.mp3", "audio/sad/sad12.mp3", "audio/sad/sad13.mp3", "audio/sad/sad14.mp3"] 
 		},	{
 			"name": "HAPPY",
 			"face": "images/happy.png",
-			"voice": ["audio/happy/happy1.mp3", "audio/happy/happy2.mp3", "audio/happy/happy3.mp3", "audio/happy/happy4.mp3"] 
+			"voice": ["audio/happy/happy11.mp3", "audio/happy/happy12.mp3", "audio/happy/happy13.mp3", "audio/happy/happy14.mp3"] 
 		},	{
 			"name": "ANGRY",
 			"face": "images/angry.png",
-			"voice": ["audio/angry/angry1.mp3", "audio/angry/angry2.mp3", "audio/angry/angry3.mp3", "audio/angry/angry4.mp3"] 
+			"voice": ["audio/angry/angry11.mp3", "audio/angry/angry12.mp3", "audio/angry/angry13.mp3", "audio/angry/angry14.mp3"] 
 		},	{
 			"name": "JELOUS",
 			"face": "images/jelous.png",
 			"voice": [
-				"audio/jelous/jelous1.mp3", "audio/jelous/jelous2.mp3", "audio/jelous/jelous4.mp3", "audio/jelous/jelous4.mp3"] 
+				"audio/jelous/jelous11.mp3", "audio/jelous/jelous12.mp3", "audio/jelous/jelous13.mp3", "audio/jelous/jelous14.mp3"] 
 		},	{
 			"name": "ZEN",
 			"face": "images/zen.png",
-			"voice": ["audio/zen/zen1.mp3", "audio/zen/zen2.mp3", "audio/zen/zen3.mp3", "audio/zen/zen4.mp3"] 
+			"voice": ["audio/zen/zen11.mp3", "audio/zen/zen12.mp3", "audio/zen/zen13.mp3", "audio/zen/zen14.mp3"] 
 		},	{
 			"name": "CONFUSED",
 			"face": "images/confused.png",
-			"voice": ["audio/confused/confused1.mp3", "audio/confused/confused2.mp3", "audio/confused/confused3.mp3", "audio/confused/confused4.mp3"] 
+			"voice": ["audio/confused/confused11.mp3", "audio/confused/confused12.mp3", "audio/confused/confused13.mp3", "audio/confused/confused14.mp3"] 
 		}
 	]
 }
